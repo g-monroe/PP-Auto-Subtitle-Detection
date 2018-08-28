@@ -1,0 +1,31 @@
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\bin\Debug\Auto Subtitle Detection.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\bin\Debug\Auto Subtitle Detection.exe
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\bin\Debug\Auto Subtitle Detection.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\bin\Debug\Auto Subtitle Detection.xml
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\bin\Debug\Interop.WMPLib.dll
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\bin\Debug\AxInterop.WMPLib.dll
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto Subtitle Detection.vbprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Interop.WMPLib.dll
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\AxInterop.WMPLib.dll
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto Subtitle Detection.vbproj.ResolveComReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto_Subtitle_Detection.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto Subtitle Detection.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto Subtitle Detection.exe
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto Subtitle Detection.xml
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto Subtitle Detection.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\Auto Subtitle Detection\obj\Debug\Auto_Subtitle_Detection.frmMain.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\x64\liblept172.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\x64\libtesseract304.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\x86\liblept172.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\x86\libtesseract304.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\Tesseract.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\Tesseract.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.cube.fold
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.cube.lm
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.cube.nn
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.cube.params
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.cube.size
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Auto Subtitle Detection\bin\Debug\tessdata\eng.traineddata

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Auto Subtitle Detection
+</name>
+</assembly>
+<members>
+<member name="T:Auto_Subtitle_Detection.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Auto_Subtitle_Detection.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Auto_Subtitle_Detection.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Auto_Subtitle_Detection.My.Resources.Resources.subtitle_of_a_blu_ray_movie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator">
+ <summary>
+ Translates text using Google's online language tools.
+ </summary>
+</member>
+<member name="P:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator.Languages">
+ <summary>
+ Gets the supported languages.
+ </summary>
+</member>
+<member name="P:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator.TranslationTime">
+ <summary>
+ Gets the time taken to perform the translation.
+ </summary>
+</member>
+<member name="P:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator.TranslationSpeechUrl">
+ <summary>
+ Gets the url used to speak the translation.
+ </summary>
+ <value>The url used to speak the translation.</value>
+</member>
+<member name="P:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator.Error">
+ <summary>
+ Gets the error.
+ </summary>
+</member>
+<member name="M:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator.Translate(System.String,System.String,System.String)">
+ <summary>
+ Translates the specified source text.
+ </summary>
+ <param name="sourceText">The source text.</param>
+ <param name="sourceLanguage">The source language.</param>
+ <param name="targetLanguage">The target language.</param>
+ <returns>The translation.</returns>
+</member>
+<member name="M:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator.LanguageEnumToIdentifier(System.String)">
+ <summary>
+ Converts a language to its identifier.
+ </summary>
+ <param name="language">The language."</param>
+ <returns>The identifier or <see cref="T:System.String"/> if none.</returns>
+</member>
+<member name="M:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator.EnsureInitialized">
+ <summary>
+ Ensures the translator has been initialized.
+ </summary>
+</member>
+<member name="F:Auto_Subtitle_Detection.RavSoft.GoogleTranslator.Translator._languageModeMap">
+ <summary>
+ The language to translation mode map.
+ </summary>
+</member>
+</members>
+</doc>
